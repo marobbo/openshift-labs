@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo Pre-script would go here 
+
+# Call the original script
+/usr/libexec/s2i/run
